@@ -2,10 +2,10 @@
 document.addEventListener("DOMContentLoaded", theDOMHasLoaded, false);
 
 // array of audio files (stored in a folder called music)
-var files = ["/assets/music/nodude.wav", // 0
-            "nananana.wav", // 1
-            "interlude.mp3", // 2
-            "scriptures.mp3" // 3
+var files = ["/assets/music/nodude.mp3", // 0
+            "nananana.mp3", // 1
+            "duckin.mp3", // 2
+            "idontwanna.mp3" // 3
             ];
 
 ///////////////////////////////////////////////
